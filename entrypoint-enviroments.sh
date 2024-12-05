@@ -1,3 +1,5 @@
+#!/bin/bash
+
 CONFIG_FILE="${PATH_CONFIG:-/usr/share/nginx/html/src/assets/config.json}"
 
 BASE_ENV_CONFIG="${BASE_ENV:-CTIO}"
